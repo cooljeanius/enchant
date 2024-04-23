@@ -1,5 +1,8 @@
 bootstrap linguist-vendored
+doxygen/html/*.css linguist-documentation
 doxygen/html/*.html linguist-documentation
 doxygen/html/*.js linguist-documentation
+doxygen/html/search/*.css linguist-documentation
 doxygen/html/search/*.html linguist-documentation
 doxygen/html/search/*.js linguist-documentation
+m4/ax_*.m4 linguist-vendored

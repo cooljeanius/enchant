@@ -67,7 +67,7 @@ jobs:
 
     - name: Dependencies
       run: |
-        sudo apt-get -q -y install git-merge-changelog libc6-dev-amd64-cross \
+        sudo apt-get -qq -y install git-merge-changelog libc6-dev-amd64-cross \
           libgcc-s1-amd64-cross libtbb-dev doxygen valac valac-bin \
           libunittest++-dev libaspell-dev hspell libhunspell-dev \
           libnuspell-dev libvoikko-dev libglib2.0-dev gobject-introspection \
@@ -107,10 +107,17 @@ jobs:
         echo '  make release'
         exit 1
 
-    - name: Testsuite
-      run: make check --jobs="$(nproc)"
-
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v3
       with:
         category: "/language:${{matrix.language}}"
+
+    - name: Testsuite
+      run: |
+        if test -r Makefile; then \
+          make check --jobs="$(nproc)"; \
+        elif test -d tests && test -r tests/Makefile; then \
+          make -C tests check --jobs="$(nproc)"; \
+        else \
+          find . -name Makefile -print; \
+        fi
