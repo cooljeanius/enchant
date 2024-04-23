@@ -31,12 +31,12 @@ jobs:
         CXXFLAGS: -g ${{ env.ASAN_FLAGS }}
         LDFLAGS: ${{ env.ASAN_FLAGS }}
     - name: make
-      run: make --jobs=`nproc`
+      run: make --jobs="$(nproc)"
     - name: make check
-      run: make check --jobs=`nproc`
+      run: make check --jobs="$(nproc)"
     - name: make distcheck
       # normal build is with ASAN, distcheck is without ASAN. Both are covered.
-      run: make distcheck --jobs=`nproc`
+      run: make distcheck --jobs="$(nproc)"
 
   build-macos:
     runs-on: macos-latest
@@ -54,11 +54,11 @@ jobs:
       # the tests fails; see https://github.com/GNUAspell/aspell/issues/555
       run: ./configure --enable-relocatable --without-aspell
     - name: make
-      run: make --jobs=`nproc`
+      run: make --jobs="$(nproc)"
     - name: make check
-      run: make check --jobs=`nproc`
+      run: make check --jobs="$(nproc)"
     - name: make distcheck
-      run: make distcheck --jobs=`nproc` DISTCHECK_CONFIGURE_FLAGS="--without-aspell"
+      run: make distcheck --jobs="$(nproc)" DISTCHECK_CONFIGURE_FLAGS="--without-aspell"
       
   build-windows:
     runs-on: windows-latest
@@ -94,8 +94,8 @@ jobs:
     - name: configure
       run: ./configure --enable-relocatable
     - name: make
-      run: make --jobs=`nproc`
+      run: make --jobs=$(nproc)
     - name: make check
-      run: make check --jobs=`nproc`
+      run: make check --jobs=$(nproc)
     - name: make distcheck
-      run: make distcheck --jobs=`nproc`
+      run: make distcheck --jobs=$(nproc)
