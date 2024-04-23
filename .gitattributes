@@ -1,1 +1,4 @@
 doxygen/html/*.html linguist-documentation
+doxygen/html/*.js linguist-documentation
+doxygen/html/search/*.html linguist-documentation
+doxygen/html/search/*.js linguist-documentation
