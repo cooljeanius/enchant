@@ -67,9 +67,14 @@ jobs:
 
     - name: Dependencies
       run: |
-        sudo apt-get install git-merge-changelog libc6-dev-amd64-cross libgcc-s1-amd64-cross libtbb-dev doxygen \
-          valac-bin libunittest++-dev libaspell-dev hspell libhunspell-dev libnuspell-dev libvoikko-dev libglib2.0-dev \
-          gobject-introspection gir1.2-glib-2.0 gnulib
+        sudo apt-get -y install git-merge-changelog libc6-dev-amd64-cross \
+          libgcc-s1-amd64-cross libtbb-dev doxygen valac valac-bin \
+          libunittest++-dev libaspell-dev hspell libhunspell-dev \
+          libnuspell-dev libvoikko-dev libglib2.0-dev gobject-introspection \
+          gir1.2-glib-2.0 gnulib libasprintf-dev libgettextpo-dev \
+          libvala-0.56-dev valac-0.56-vapi voikko-fi aspell-en hunspell-fr \
+          groff graphviz pkg-config libicu-dev ninja-build nuspell \
+          libzemberek-java zpspell
 
     # Initializes the CodeQL tools for scanning.
     - name: Initialize CodeQL
