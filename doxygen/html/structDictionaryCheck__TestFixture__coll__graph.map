@@ -1,7 +1,12 @@
 <map id="DictionaryCheck_TestFixture" name="DictionaryCheck_TestFixture">
-<area shape="rect" id="node1" title=" " alt="" coords="77,260,269,287"/>
-<area shape="rect" id="node2" href="$structProvider__TestFixture.html" title=" " alt="" coords="101,184,244,211"/>
-<area shape="rect" id="node3" href="$structstr__enchant__provider.html" title=" " alt="" coords="101,95,244,121"/>
-<area shape="rect" id="node4" href="$structstr__enchant__dict.html" title=" " alt="" coords="5,5,124,32"/>
-<area shape="rect" id="node5" href="$structstr__enchant__broker.html" title=" " alt="" coords="148,5,280,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="77,258,267,283"/>
+<area shape="rect" id="Node000002" href="$structProvider__TestFixture.html" title=" " alt="" coords="48,183,189,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,219,165,256,161,259,134,223"/>
+<area shape="rect" id="Node000003" href="$struct__EnchantProvider.html" title=" " alt="" coords="56,94,181,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,135,121,182,116,182,116,135"/>
+<area shape="rect" id="Node000004" href="$struct__EnchantBroker.html" title=" " alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="61,46,66,69,76,81,90,91,87,96,73,85,61,71,56,47"/>
+<area shape="rect" id="Node000005" href="$struct__EnchantDict.html" title=" " alt="" coords="160,5,261,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="215,46,216,120,212,165,204,209,194,236,182,258,177,256,189,234,199,208,207,164,210,120,210,46"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="155,40,135,57,125,75,122,94,116,93,120,73,131,53,152,36"/>
 </map>

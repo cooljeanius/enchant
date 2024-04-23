@@ -1,10 +1,17 @@
 <map id="EnchantBrokerDescribeTestFixtureBase" name="EnchantBrokerDescribeTestFixtureBase">
-<area shape="rect" id="node1" title=" " alt="" coords="408,159,592,200"/>
-<area shape="rect" id="node4" href="$structEnchantBrokerDescribeTestFixture.html" title=" " alt="" coords="655,5,839,47"/>
-<area shape="rect" id="node5" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Describe__TestFixture.html" title=" " alt="" coords="640,71,855,127"/>
-<area shape="rect" id="node6" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Identify__TestFixture.html" title=" " alt="" coords="644,151,851,207"/>
-<area shape="rect" id="node7" href="$structEnchantBrokerDescribe__ProviderLacksDescribe__TestFixture.html" title=" " alt="" coords="665,231,829,287"/>
-<area shape="rect" id="node8" href="$structEnchantBrokerDescribe__ProviderLacksIdentify__TestFixture.html" title=" " alt="" coords="668,311,827,367"/>
-<area shape="rect" id="node2" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="188,166,360,193"/>
-<area shape="rect" id="node3" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,166,140,193"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="408,157,592,198"/>
+<area shape="rect" id="Node000004" href="$structEnchantBrokerDescribeTestFixture.html" title=" " alt="" coords="656,5,840,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="529,144,578,98,639,55,663,44,666,49,642,60,581,103,532,148"/>
+<area shape="rect" id="Node000005" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Describe__TestFixture.html" title=" " alt="" coords="640,70,856,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="579,150,659,124,661,129,580,155"/>
+<area shape="rect" id="Node000006" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Identify__TestFixture.html" title=" " alt="" coords="645,150,851,206"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="608,175,645,175,645,180,608,180"/>
+<area shape="rect" id="Node000007" href="$structEnchantBrokerDescribe__ProviderLacksDescribe__TestFixture.html" title=" " alt="" coords="666,230,830,286"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="581,201,667,229,665,234,579,206"/>
+<area shape="rect" id="Node000008" href="$structEnchantBrokerDescribe__ProviderLacksIdentify__TestFixture.html" title=" " alt="" coords="668,310,828,366"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="533,207,582,252,642,295,669,309,667,314,639,300,579,256,530,211"/>
+<area shape="rect" id="Node000002" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="188,165,360,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,175,408,175,408,180,375,180"/>
+<area shape="rect" id="Node000003" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,165,140,191"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,175,187,175,187,180,155,180"/>
 </map>

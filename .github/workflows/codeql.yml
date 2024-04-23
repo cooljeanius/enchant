@@ -111,13 +111,3 @@ jobs:
       uses: github/codeql-action/analyze@v3
       with:
         category: "/language:${{matrix.language}}"
-
-    - name: Testsuite
-      run: |
-        if test -r Makefile; then \
-          make check || (test -d tests && cat tests/*.log); \
-        elif test -d tests && test -r tests/Makefile; then \
-          make -C tests check --jobs="$(nproc)"; \
-        else \
-          find . -name Makefile -print; \
-        fi

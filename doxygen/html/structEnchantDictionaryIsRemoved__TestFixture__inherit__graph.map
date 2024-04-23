@@ -1,6 +1,9 @@
 <map id="EnchantDictionaryIsRemoved_TestFixture" name="EnchantDictionaryIsRemoved_TestFixture">
-<area shape="rect" id="node1" title=" " alt="" coords="5,229,200,271"/>
-<area shape="rect" id="node2" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="5,155,200,181"/>
-<area shape="rect" id="node3" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="17,80,189,107"/>
-<area shape="rect" id="node4" href="$structEnchantTestFixture.html" title=" " alt="" coords="35,5,170,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,226,201,267"/>
+<area shape="rect" id="Node000002" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="6,153,200,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,194,106,226,100,226,100,194"/>
+<area shape="rect" id="Node000003" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="17,79,189,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,120,106,152,100,152,100,120"/>
+<area shape="rect" id="Node000004" href="$structEnchantTestFixture.html" title=" " alt="" coords="36,5,170,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,46,106,79,100,79,100,46"/>
 </map>

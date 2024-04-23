@@ -1,8 +1,13 @@
 <map id="EnchantDictionaryIsWordCharacterTestFixtureBase" name="EnchantDictionaryIsWordCharacterTestFixtureBase">
-<area shape="rect" id="node1" title=" " alt="" coords="651,39,879,80"/>
-<area shape="rect" id="node5" href="$structEnchantDictionaryIsWordCharacterNotImplemented__TestFixture.html" title=" " alt="" coords="927,5,1155,47"/>
-<area shape="rect" id="node6" href="$structEnchantDictionaryIsWordCharacter__TestFixture.html" title=" " alt="" coords="927,71,1155,112"/>
-<area shape="rect" id="node2" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="408,46,603,73"/>
-<area shape="rect" id="node3" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="188,46,360,73"/>
-<area shape="rect" id="node4" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,46,140,73"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="649,39,876,79"/>
+<area shape="rect" id="Node000005" href="$structEnchantDictionaryIsWordCharacterNotImplemented__TestFixture.html" title=" " alt="" coords="924,5,1150,46"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="891,41,923,37,923,42,892,46"/>
+<area shape="rect" id="Node000006" href="$structEnchantDictionaryIsWordCharacter__TestFixture.html" title=" " alt="" coords="924,71,1150,111"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="892,71,923,75,923,80,891,77"/>
+<area shape="rect" id="Node000002" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="408,46,601,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,56,649,56,649,62,617,62"/>
+<area shape="rect" id="Node000003" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="188,46,360,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,56,408,56,408,62,375,62"/>
+<area shape="rect" id="Node000004" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,46,140,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,56,187,56,187,62,155,62"/>
 </map>

@@ -1,51 +1,99 @@
 <map id="EnchantBrokerTestFixture" name="EnchantBrokerTestFixture">
-<area shape="rect" id="node1" title=" " alt="" coords="188,662,360,689"/>
-<area shape="rect" id="node3" href="$structEnchantBrokerDescribeTestFixtureBase.html" title=" " alt="" coords="435,159,619,200"/>
-<area shape="rect" id="node9" href="$structEnchantBrokerDictExists__ProviderImplementsAll__TestFixture.html" title=" " alt="" coords="443,225,611,281"/>
-<area shape="rect" id="node10" href="$structEnchantBrokerDictExists__ProviderImplementsDictionaryExist__TestFixture.html" title=" " alt="" coords="424,305,629,361"/>
-<area shape="rect" id="node11" href="$structEnchantBrokerDictExists__ProviderImplementsListDictionaries__TestFixture.html" title=" " alt="" coords="409,385,644,441"/>
-<area shape="rect" id="node12" href="$structEnchantBrokerFreeAlternativeDisposeTestFixture.html" title=" " alt="" coords="429,465,624,507"/>
-<area shape="rect" id="node13" href="$structEnchantBrokerFreeDictAlternativeDisposeTestFixture.html" title=" " alt="" coords="417,531,636,572"/>
-<area shape="rect" id="node14" href="$structEnchantBrokerFreeDictTestFixture.html" title=" " alt="" coords="435,596,618,637"/>
-<area shape="rect" id="node15" href="$structEnchantBrokerFreeTestFixture.html" title=" " alt="" coords="427,662,626,689"/>
-<area shape="rect" id="node16" href="$structEnchantBrokerListDictionaries__TestFixtureBase.html" title=" " alt="" coords="428,713,625,755"/>
-<area shape="rect" id="node19" href="$structEnchantBrokerRequestDictionaryWithPwl__TestFixture.html" title=" " alt="" coords="419,779,634,820"/>
-<area shape="rect" id="node20" href="$structEnchantBrokerRequestDictionary__TestFixture.html" title=" " alt="" coords="419,844,634,885"/>
-<area shape="rect" id="node21" href="$structEnchantBrokerRequestPwlDictionary__TestFixture.html" title=" " alt="" coords="408,909,645,951"/>
-<area shape="rect" id="node22" href="$structEnchantBrokerSetErrorTests.html" title=" " alt="" coords="433,975,620,1002"/>
-<area shape="rect" id="node23" href="$structEnchantBrokerSetOrdering__TestFixture.html" title=" " alt="" coords="439,1027,615,1068"/>
-<area shape="rect" id="node25" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="429,1497,624,1523"/>
-<area shape="rect" id="node2" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,662,140,689"/>
-<area shape="rect" id="node4" href="$structEnchantBrokerDescribeTestFixture.html" title=" " alt="" coords="717,5,901,47"/>
-<area shape="rect" id="node5" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Describe__TestFixture.html" title=" " alt="" coords="702,71,917,127"/>
-<area shape="rect" id="node6" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Identify__TestFixture.html" title=" " alt="" coords="706,151,913,207"/>
-<area shape="rect" id="node7" href="$structEnchantBrokerDescribe__ProviderLacksDescribe__TestFixture.html" title=" " alt="" coords="727,231,891,287"/>
-<area shape="rect" id="node8" href="$structEnchantBrokerDescribe__ProviderLacksIdentify__TestFixture.html" title=" " alt="" coords="730,311,889,367"/>
-<area shape="rect" id="node17" href="$structEnchantBrokerListDictionaries__ProviderDuplicateTags__TestFixture.html" title=" " alt="" coords="693,680,925,721"/>
-<area shape="rect" id="node18" href="$structEnchantBrokerListDictionaries__TestFixture.html" title=" " alt="" coords="711,745,908,787"/>
-<area shape="rect" id="node24" href="$structEnchantBrokerFileSetOrdering__TestFixture.html" title=" " alt="" coords="711,935,908,976"/>
-<area shape="rect" id="node26" href="$structEnchantDictFreeStringList__TestFixture.html" title=" " alt="" coords="722,1000,897,1041"/>
-<area shape="rect" id="node27" href="$structEnchantDictionaryAddToSessionNotImplemented__TestFixture.html" title=" " alt="" coords="702,1065,917,1107"/>
-<area shape="rect" id="node28" href="$structEnchantDictionaryAddToSession__TestFixture.html" title=" " alt="" coords="702,1131,917,1172"/>
-<area shape="rect" id="node29" href="$structEnchantDictionaryCheckNotImplemented__TestFixture.html" title=" " alt="" coords="715,1196,904,1237"/>
-<area shape="rect" id="node30" href="$structEnchantDictionaryCheck__TestFixture.html" title=" " alt="" coords="725,1261,893,1303"/>
-<area shape="rect" id="node31" href="$structEnchantDictionaryDescribe__TestFixtureBase.html" title=" " alt="" coords="718,1327,901,1368"/>
-<area shape="rect" id="node33" href="$structEnchantDictionaryGetExtraWordCharactersTestFixtureBase.html" title=" " alt="" coords="703,1392,915,1433"/>
-<area shape="rect" id="node36" href="$structEnchantDictionaryIsAdded__TestFixture.html" title=" " alt="" coords="720,1457,899,1499"/>
-<area shape="rect" id="node37" href="$structEnchantDictionaryIsRemoved__TestFixture.html" title=" " alt="" coords="712,1523,907,1564"/>
-<area shape="rect" id="node38" href="$structEnchantDictionaryIsWordCharacterTestFixtureBase.html" title=" " alt="" coords="695,1588,923,1629"/>
-<area shape="rect" id="node41" href="$structEnchantDictionaryRemoveFromSession__TestFixture.html" title=" " alt="" coords="706,1653,913,1695"/>
-<area shape="rect" id="node42" href="$structEnchantDictionaryRemoveNotImplemented__TestFixture.html" title=" " alt="" coords="710,1719,909,1760"/>
-<area shape="rect" id="node43" href="$structEnchantDictionaryRemove__TestFixture.html" title=" " alt="" coords="721,1784,898,1825"/>
-<area shape="rect" id="node44" href="$structEnchantDictionarySetErrorTests.html" title=" " alt="" coords="720,1849,899,1891"/>
-<area shape="rect" id="node45" href="$structEnchantDictionarySuggestTestFixtureBase.html" title=" " alt="" coords="720,1915,899,1956"/>
-<area shape="rect" id="node48" href="$structEnchantPwlWithDictSuggs__TestFixture.html" title=" " alt="" coords="719,1980,899,2021"/>
-<area shape="rect" id="node49" href="$structEnchantPwl__TestFixture.html" title=" " alt="" coords="727,2046,891,2073"/>
-<area shape="rect" id="node32" href="$structEnchantDictionaryDescribe__TestFixture.html" title=" " alt="" coords="996,1319,1179,1360"/>
-<area shape="rect" id="node34" href="$structEnchantDictionaryGetExtraWordCharactersNotImplemented__TestFixture.html" title=" " alt="" coords="981,1385,1194,1441"/>
-<area shape="rect" id="node35" href="$structEnchantDictionaryGetExtraWordCharacters__TestFixture.html" title=" " alt="" coords="993,1465,1182,1507"/>
-<area shape="rect" id="node39" href="$structEnchantDictionaryIsWordCharacterNotImplemented__TestFixture.html" title=" " alt="" coords="973,1560,1201,1601"/>
-<area shape="rect" id="node40" href="$structEnchantDictionaryIsWordCharacter__TestFixture.html" title=" " alt="" coords="973,1625,1201,1667"/>
-<area shape="rect" id="node46" href="$structEnchantDictionarySuggestNotImplemented__TestFixture.html" title=" " alt="" coords="992,1883,1183,1924"/>
-<area shape="rect" id="node47" href="$structEnchantDictionarySuggest__TestFixture.html" title=" " alt="" coords="998,1948,1177,1989"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,657,360,683"/>
+<area shape="rect" id="Node000003" href="$structEnchantBrokerDescribeTestFixtureBase.html" title=" " alt="" coords="435,157,619,198"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,641,275,557,281,501,292,441,309,378,332,316,364,258,406,208,433,190,436,194,410,212,369,261,337,318,314,380,297,442,286,502,280,558,277,641"/>
+<area shape="rect" id="Node000009" href="$structEnchantBrokerDictExists__ProviderImplementsAll__TestFixture.html" title=" " alt="" coords="443,222,611,278"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="274,641,283,570,304,476,321,426,343,376,371,329,406,288,423,275,441,265,443,270,425,279,410,292,376,332,348,378,326,428,309,478,288,571,280,641"/>
+<area shape="rect" id="Node000010" href="$structEnchantBrokerDictExists__ProviderImplementsDictionaryExist__TestFixture.html" title=" " alt="" coords="425,302,628,358"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="277,641,290,584,315,511,352,435,377,399,406,368,423,355,426,359,410,372,381,402,357,437,319,513,295,586,282,642"/>
+<area shape="rect" id="Node000011" href="$structEnchantBrokerDictExists__ProviderImplementsListDictionaries__TestFixture.html" title=" " alt="" coords="410,382,644,438"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="282,641,299,599,326,547,362,494,406,448,424,436,427,440,410,452,366,497,331,550,304,601,287,643"/>
+<area shape="rect" id="Node000012" href="$structEnchantBrokerFreeAlternativeDisposeTestFixture.html" title=" " alt="" coords="429,461,624,502"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="289,642,336,577,369,542,407,513,431,500,433,505,409,517,372,546,340,581,293,645"/>
+<area shape="rect" id="Node000013" href="$structEnchantBrokerFreeDictAlternativeDisposeTestFixture.html" title=" " alt="" coords="417,527,636,567"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="302,645,349,611,407,578,439,565,441,570,409,583,352,615,305,649"/>
+<area shape="rect" id="Node000014" href="$structEnchantBrokerFreeDictTestFixture.html" title=" " alt="" coords="436,592,618,633"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="348,650,435,630,436,636,349,655"/>
+<area shape="rect" id="Node000015" href="$structEnchantBrokerFreeTestFixture.html" title=" " alt="" coords="428,657,626,683"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="376,667,427,667,427,672,376,672"/>
+<area shape="rect" id="Node000016" href="$structEnchantBrokerListDictionaries__TestFixtureBase.html" title=" " alt="" coords="428,707,625,747"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="349,684,434,703,433,709,348,689"/>
+<area shape="rect" id="Node000019" href="$structEnchantBrokerRequestDictionaryWithPwl__TestFixture.html" title=" " alt="" coords="419,772,634,813"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="305,690,352,724,409,757,441,769,439,774,407,761,349,729,302,695"/>
+<area shape="rect" id="Node000020" href="$structEnchantBrokerRequestDictionary__TestFixture.html" title=" " alt="" coords="419,837,634,878"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="293,694,340,759,372,793,409,822,433,834,431,839,407,827,369,797,336,762,289,697"/>
+<area shape="rect" id="Node000021" href="$structEnchantBrokerRequestPwlDictionary__TestFixture.html" title=" " alt="" coords="408,903,645,943"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="287,696,304,739,330,791,365,843,386,867,410,888,430,900,428,905,406,892,382,871,361,846,325,793,299,741,282,698"/>
+<area shape="rect" id="Node000022" href="$structEnchantBrokerSetErrorTests.html" title=" " alt="" coords="433,968,620,993"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="282,697,295,752,319,822,336,858,356,893,381,925,410,953,434,967,431,971,406,957,377,929,352,896,331,861,314,824,290,754,277,698"/>
+<area shape="rect" id="Node000023" href="$structEnchantBrokerSetOrdering__TestFixture.html" title=" " alt="" coords="439,1017,615,1058"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="281,697,291,761,313,844,330,887,351,930,378,969,410,1004,439,1022,437,1026,406,1008,374,973,347,932,325,889,308,845,286,762,275,698"/>
+<area shape="rect" id="Node000025" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="430,1489,623,1515"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="286,697,524,1488,519,1489,281,698"/>
+<area shape="rect" id="Node000002" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,657,140,683"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,667,187,667,187,672,155,672"/>
+<area shape="rect" id="Node000004" href="$structEnchantBrokerDescribeTestFixture.html" title=" " alt="" coords="717,5,901,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="561,145,620,99,692,55,719,44,721,49,695,60,623,103,564,149"/>
+<area shape="rect" id="Node000005" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Describe__TestFixture.html" title=" " alt="" coords="701,70,917,126"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="615,150,707,124,709,129,616,155"/>
+<area shape="rect" id="Node000006" href="$structEnchantBrokerDescribe__ProviderHasInvalidUtf8Identify__TestFixture.html" title=" " alt="" coords="706,150,912,206"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="634,175,705,175,705,180,634,180"/>
+<area shape="rect" id="Node000007" href="$structEnchantBrokerDescribe__ProviderLacksDescribe__TestFixture.html" title=" " alt="" coords="727,230,891,286"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="621,200,646,207,728,231,726,236,645,212,619,205"/>
+<area shape="rect" id="Node000008" href="$structEnchantBrokerDescribe__ProviderLacksIdentify__TestFixture.html" title=" " alt="" coords="729,310,889,366"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="634,199,647,208,665,230,672,252,679,274,695,296,730,317,728,321,692,300,674,277,667,254,660,232,644,212,631,204"/>
+<area shape="rect" id="Node000017" href="$structEnchantBrokerListDictionaries__ProviderDuplicateTags__TestFixture.html" title=" " alt="" coords="693,673,925,714"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="640,711,693,705,693,710,641,716"/>
+<area shape="rect" id="Node000018" href="$structEnchantBrokerListDictionaries__TestFixture.html" title=" " alt="" coords="710,739,908,779"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="641,737,710,745,710,750,640,743"/>
+<area shape="rect" id="Node000024" href="$structEnchantBrokerFileSetOrdering__TestFixture.html" title=" " alt="" coords="710,927,908,967"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="627,1010,644,1003,692,978,727,965,729,970,694,983,646,1008,628,1015"/>
+<area shape="rect" id="Node000026" href="$structEnchantDictFreeStringList__TestFixture.html" title=" " alt="" coords="722,992,896,1033"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="527,1473,537,1390,548,1334,563,1274,584,1212,612,1151,648,1094,692,1044,720,1025,723,1030,695,1048,652,1097,617,1153,589,1214,568,1276,553,1336,542,1391,532,1474"/>
+<area shape="rect" id="Node000027" href="$structEnchantDictionaryAddToSessionNotImplemented__TestFixture.html" title=" " alt="" coords="703,1057,915,1098"/>
+<area shape="poly" id="edge26_Node000025_Node000027" title=" " alt="" coords="529,1473,543,1400,572,1302,593,1250,620,1199,652,1151,692,1109,710,1096,713,1101,695,1113,657,1154,624,1201,598,1252,577,1304,548,1401,534,1474"/>
+<area shape="rect" id="Node000028" href="$structEnchantDictionaryAddToSession__TestFixture.html" title=" " alt="" coords="703,1123,915,1163"/>
+<area shape="poly" id="edge27_Node000025_Node000028" title=" " alt="" coords="532,1473,549,1411,581,1331,602,1288,627,1247,657,1208,692,1174,711,1161,714,1166,695,1178,661,1212,632,1250,606,1291,585,1333,554,1413,537,1474"/>
+<area shape="rect" id="Node000029" href="$structEnchantDictionaryCheckNotImplemented__TestFixture.html" title=" " alt="" coords="715,1188,903,1229"/>
+<area shape="poly" id="edge28_Node000025_Node000029" title=" " alt="" coords="535,1473,557,1423,590,1360,635,1295,662,1265,692,1240,714,1227,716,1231,695,1244,666,1269,639,1298,594,1363,561,1425,540,1475"/>
+<area shape="rect" id="Node000030" href="$structEnchantDictionaryCheck__TestFixture.html" title=" " alt="" coords="726,1253,892,1294"/>
+<area shape="poly" id="edge29_Node000025_Node000030" title=" " alt="" coords="541,1474,566,1436,600,1391,643,1344,692,1305,725,1289,727,1294,695,1309,646,1348,604,1394,570,1439,545,1477"/>
+<area shape="rect" id="Node000031" href="$structEnchantDictionaryDescribe__TestFixtureBase.html" title=" " alt="" coords="719,1319,899,1359"/>
+<area shape="poly" id="edge30_Node000025_Node000031" title=" " alt="" coords="550,1476,612,1423,651,1395,692,1370,722,1357,724,1362,695,1375,654,1399,615,1427,554,1480"/>
+<area shape="rect" id="Node000033" href="$structEnchantDictionaryGetExtraWordCharactersTestFixtureBase.html" title=" " alt="" coords="704,1384,914,1425"/>
+<area shape="poly" id="edge32_Node000025_Node000033" title=" " alt="" coords="573,1480,692,1435,732,1423,733,1428,694,1440,575,1485"/>
+<area shape="rect" id="Node000036" href="$structEnchantDictionaryIsAdded__TestFixture.html" title=" " alt="" coords="721,1449,897,1490"/>
+<area shape="poly" id="edge35_Node000025_Node000036" title=" " alt="" coords="638,1486,720,1477,721,1482,639,1492"/>
+<area shape="rect" id="Node000037" href="$structEnchantDictionaryIsRemoved__TestFixture.html" title=" " alt="" coords="711,1515,907,1555"/>
+<area shape="poly" id="edge36_Node000025_Node000037" title=" " alt="" coords="639,1512,711,1521,711,1526,639,1518"/>
+<area shape="rect" id="Node000038" href="$structEnchantDictionaryIsWordCharacterTestFixtureBase.html" title=" " alt="" coords="696,1580,922,1621"/>
+<area shape="poly" id="edge37_Node000025_Node000038" title=" " alt="" coords="574,1518,694,1564,733,1577,732,1582,692,1570,572,1523"/>
+<area shape="rect" id="Node000041" href="$structEnchantDictionaryRemoveFromSession__TestFixture.html" title=" " alt="" coords="705,1645,913,1686"/>
+<area shape="poly" id="edge40_Node000025_Node000041" title=" " alt="" coords="553,1523,615,1577,653,1605,695,1630,724,1642,722,1647,692,1635,650,1610,611,1581,550,1527"/>
+<area shape="rect" id="Node000042" href="$structEnchantDictionaryRemoveNotImplemented__TestFixture.html" title=" " alt="" coords="710,1711,908,1751"/>
+<area shape="poly" id="edge41_Node000025_Node000042" title=" " alt="" coords="545,1527,570,1565,604,1610,646,1656,695,1695,719,1708,716,1713,692,1700,642,1660,600,1614,565,1568,541,1529"/>
+<area shape="rect" id="Node000043" href="$structEnchantDictionaryRemove__TestFixture.html" title=" " alt="" coords="720,1776,898,1817"/>
+<area shape="poly" id="edge42_Node000025_Node000043" title=" " alt="" coords="540,1528,561,1578,594,1641,639,1706,665,1735,695,1761,721,1776,719,1780,692,1765,662,1739,635,1709,590,1644,557,1581,535,1530"/>
+<area shape="rect" id="Node000044" href="$structEnchantDictionarySetErrorTests.html" title=" " alt="" coords="721,1841,897,1882"/>
+<area shape="poly" id="edge43_Node000025_Node000044" title=" " alt="" coords="537,1529,554,1590,585,1671,606,1713,631,1755,661,1793,695,1826,722,1842,719,1847,692,1830,657,1796,627,1758,602,1716,580,1673,549,1592,532,1530"/>
+<area shape="rect" id="Node000045" href="$structEnchantDictionarySuggestTestFixtureBase.html" title=" " alt="" coords="721,1907,897,1947"/>
+<area shape="poly" id="edge44_Node000025_Node000045" title=" " alt="" coords="534,1529,548,1602,576,1700,598,1752,624,1803,656,1850,695,1892,722,1908,719,1913,692,1896,652,1854,619,1806,593,1754,571,1701,543,1603,529,1530"/>
+<area shape="rect" id="Node000048" href="$structEnchantPwlWithDictSuggs__TestFixture.html" title=" " alt="" coords="719,1972,899,2013"/>
+<area shape="poly" id="edge47_Node000025_Node000048" title=" " alt="" coords="532,1530,542,1613,553,1668,568,1728,589,1790,617,1851,652,1908,695,1957,720,1974,717,1978,692,1961,647,1911,612,1853,584,1792,563,1730,548,1669,537,1614,527,1530"/>
+<area shape="rect" id="Node000049" href="$structEnchantPwl__TestFixture.html" title=" " alt="" coords="727,2037,891,2063"/>
+<area shape="poly" id="edge48_Node000025_Node000049" title=" " alt="" coords="530,1530,536,1625,544,1689,558,1758,578,1830,607,1901,646,1966,669,1996,695,2022,710,2033,728,2040,726,2045,708,2038,692,2026,665,1999,641,1969,602,1903,573,1832,552,1760,539,1690,530,1626,525,1530"/>
+<area shape="rect" id="Node000032" href="$structEnchantDictionaryDescribe__TestFixture.html" title=" " alt="" coords="996,1312,1176,1353"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="915,1334,995,1332,995,1337,915,1339"/>
+<area shape="rect" id="Node000034" href="$structEnchantDictionaryGetExtraWordCharactersNotImplemented__TestFixture.html" title=" " alt="" coords="980,1377,1192,1432"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="930,1402,980,1402,980,1407,930,1407"/>
+<area shape="rect" id="Node000035" href="$structEnchantDictionaryGetExtraWordCharacters__TestFixture.html" title=" " alt="" coords="992,1456,1180,1497"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="905,1427,1005,1453,1004,1458,904,1432"/>
+<area shape="rect" id="Node000039" href="$structEnchantDictionaryIsWordCharacterNotImplemented__TestFixture.html" title=" " alt="" coords="973,1551,1199,1591"/>
+<area shape="poly" id="edge38_Node000038_Node000039" title=" " alt="" coords="937,1584,972,1580,973,1586,938,1589"/>
+<area shape="rect" id="Node000040" href="$structEnchantDictionaryIsWordCharacter__TestFixture.html" title=" " alt="" coords="973,1616,1199,1657"/>
+<area shape="poly" id="edge39_Node000038_Node000040" title=" " alt="" coords="938,1614,973,1619,972,1624,937,1620"/>
+<area shape="rect" id="Node000046" href="$structEnchantDictionarySuggestNotImplemented__TestFixture.html" title=" " alt="" coords="991,1875,1181,1915"/>
+<area shape="poly" id="edge45_Node000045_Node000046" title=" " alt="" coords="912,1912,991,1903,991,1909,913,1918"/>
+<area shape="rect" id="Node000047" href="$structEnchantDictionarySuggest__TestFixture.html" title=" " alt="" coords="998,1940,1174,1981"/>
+<area shape="poly" id="edge46_Node000045_Node000047" title=" " alt="" coords="913,1937,997,1947,997,1952,912,1942"/>
 </map>

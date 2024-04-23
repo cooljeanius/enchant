@@ -1,7 +1,11 @@
 <map id="EnchantBrokerDescribeTestFixture" name="EnchantBrokerDescribeTestFixture">
-<area shape="rect" id="node1" title=" " alt="" coords="5,261,189,303"/>
-<area shape="rect" id="node2" href="$structEnchantBrokerDescribeTestFixtureBase.html" title=" " alt="" coords="5,171,189,212"/>
-<area shape="rect" id="node3" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="11,95,183,121"/>
-<area shape="rect" id="node4" href="$structEnchantTestFixture.html" title=" " alt="" coords="30,5,165,32"/>
-<area shape="rect" id="node5" href="$structstr__enchant__broker.html" title=" " alt="" coords="189,5,321,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="54,259,238,300"/>
+<area shape="rect" id="Node000002" href="$structEnchantBrokerDescribeTestFixtureBase.html" title=" " alt="" coords="54,169,238,210"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,225,149,259,143,259,143,225"/>
+<area shape="rect" id="Node000003" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="60,94,232,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="149,135,149,169,143,169,143,135"/>
+<area shape="rect" id="Node000004" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,5,140,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,41,138,92,134,95,90,45"/>
+<area shape="rect" id="Node000005" href="$struct__EnchantBroker.html" title=" " alt="" coords="163,5,278,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="202,45,158,95,154,92,198,41"/>
 </map>

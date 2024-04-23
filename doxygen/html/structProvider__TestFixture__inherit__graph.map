@@ -1,10 +1,17 @@
 <map id="Provider_TestFixture" name="Provider_TestFixture">
-<area shape="rect" id="node1" title=" " alt="" coords="5,165,148,192"/>
-<area shape="rect" id="node2" href="$structDictionaryCheck__TestFixture.html" title=" " alt="" coords="201,5,393,32"/>
-<area shape="rect" id="node3" href="$structDictionarySuggest__TestFixture.html" title=" " alt="" coords="196,56,399,83"/>
-<area shape="rect" id="node4" href="$structProviderDescribe__TestFixture.html" title=" " alt="" coords="200,107,395,133"/>
-<area shape="rect" id="node5" href="$structProviderDictionaryExists__TestFixture.html" title=" " alt="" coords="214,158,381,199"/>
-<area shape="rect" id="node6" href="$structProviderIdentify__TestFixture.html" title=" " alt="" coords="205,224,390,251"/>
-<area shape="rect" id="node7" href="$structProviderListDicts__TestFixture.html" title=" " alt="" coords="200,275,395,301"/>
-<area shape="rect" id="node8" href="$structProviderRequestDictionary__TestFixture.html" title=" " alt="" coords="208,326,387,367"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,161,147,187"/>
+<area shape="rect" id="Node000002" href="$structDictionaryCheck__TestFixture.html" title=" " alt="" coords="200,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,147,133,92,161,64,193,40,217,29,219,34,196,44,165,68,137,96,95,150"/>
+<area shape="rect" id="Node000003" href="$structDictionarySuggest__TestFixture.html" title=" " alt="" coords="195,55,395,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,149,143,118,194,89,223,78,225,83,196,94,146,122,105,154"/>
+<area shape="rect" id="Node000004" href="$structProviderDescribe__TestFixture.html" title=" " alt="" coords="198,104,392,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,154,194,140,240,128,241,133,195,145,141,159"/>
+<area shape="rect" id="Node000005" href="$structProviderDictionaryExists__TestFixture.html" title=" " alt="" coords="212,154,378,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,172,212,172,212,177,162,177"/>
+<area shape="rect" id="Node000006" href="$structProviderIdentify__TestFixture.html" title=" " alt="" coords="203,219,387,244"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="141,189,195,204,241,216,240,221,194,209,139,194"/>
+<area shape="rect" id="Node000007" href="$structProviderListDicts__TestFixture.html" title=" " alt="" coords="198,268,392,294"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="105,195,146,226,196,254,225,265,223,270,194,259,143,230,102,199"/>
+<area shape="rect" id="Node000008" href="$structProviderRequestDictionary__TestFixture.html" title=" " alt="" coords="206,318,384,359"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="96,198,138,252,165,280,196,304,217,315,214,320,193,308,162,284,134,255,92,202"/>
 </map>

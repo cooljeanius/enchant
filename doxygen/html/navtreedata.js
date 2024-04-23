@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Enchant", "index.html", [
-    [ "BOOTSTRAP", "md_gl_mod_bootstrap_README.html", null ],
+    [ "BOOTSTRAP", "md_gl-mod_2bootstrap_2README.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
@@ -39,9 +39,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
-"structEnchantBrokerNoProvidersTestFixture.html#a0a8710731d715aad9ef8f1d9d05fa231",
-"structProviderDescription.html#ae6f11aaf57a83f5ac3b7968fe73aab73"
+"EnchantBrokerTestFixture_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

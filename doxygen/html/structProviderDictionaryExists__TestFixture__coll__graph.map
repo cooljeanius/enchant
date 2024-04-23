@@ -1,7 +1,11 @@
 <map id="ProviderDictionaryExists_TestFixture" name="ProviderDictionaryExists_TestFixture">
-<area shape="rect" id="node1" title=" " alt="" coords="56,260,223,301"/>
-<area shape="rect" id="node2" href="$structProvider__TestFixture.html" title=" " alt="" coords="68,184,211,211"/>
-<area shape="rect" id="node3" href="$structstr__enchant__provider.html" title=" " alt="" coords="68,95,211,121"/>
-<area shape="rect" id="node4" href="$structstr__enchant__dict.html" title=" " alt="" coords="5,5,124,32"/>
-<area shape="rect" id="node5" href="$structstr__enchant__broker.html" title=" " alt="" coords="148,5,280,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,258,211,298"/>
+<area shape="rect" id="Node000002" href="$structProvider__TestFixture.html" title=" " alt="" coords="57,183,199,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,224,131,258,125,258,125,224"/>
+<area shape="rect" id="Node000003" href="$struct__EnchantProvider.html" title=" " alt="" coords="66,94,190,120"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="131,135,131,182,125,182,125,135"/>
+<area shape="rect" id="Node000004" href="$struct__EnchantBroker.html" title=" " alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,42,121,92,117,95,78,45"/>
+<area shape="rect" id="Node000005" href="$struct__EnchantDict.html" title=" " alt="" coords="144,5,245,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="178,45,139,95,135,92,174,42"/>
 </map>

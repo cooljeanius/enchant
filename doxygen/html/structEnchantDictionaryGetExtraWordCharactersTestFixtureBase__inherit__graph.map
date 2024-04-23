@@ -1,8 +1,13 @@
 <map id="EnchantDictionaryGetExtraWordCharactersTestFixtureBase" name="EnchantDictionaryGetExtraWordCharactersTestFixtureBase">
-<area shape="rect" id="node1" title=" " alt="" coords="651,50,863,91"/>
-<area shape="rect" id="node5" href="$structEnchantDictionaryGetExtraWordCharactersNotImplemented__TestFixture.html" title=" " alt="" coords="911,5,1124,61"/>
-<area shape="rect" id="node6" href="$structEnchantDictionaryGetExtraWordCharacters__TestFixture.html" title=" " alt="" coords="923,86,1112,127"/>
-<area shape="rect" id="node2" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="408,57,603,84"/>
-<area shape="rect" id="node3" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="188,57,360,84"/>
-<area shape="rect" id="node4" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,57,140,84"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="649,49,860,90"/>
+<area shape="rect" id="Node000005" href="$structEnchantDictionaryGetExtraWordCharactersNotImplemented__TestFixture.html" title=" " alt="" coords="908,5,1119,61"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="875,50,907,45,907,51,875,55"/>
+<area shape="rect" id="Node000006" href="$structEnchantDictionaryGetExtraWordCharacters__TestFixture.html" title=" " alt="" coords="920,85,1107,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="875,83,919,89,919,95,874,89"/>
+<area shape="rect" id="Node000002" href="$structEnchantDictionaryTestFixture.html" title=" " alt="" coords="408,56,601,82"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,67,649,67,649,72,617,72"/>
+<area shape="rect" id="Node000003" href="$structEnchantBrokerTestFixture.html" title=" " alt="" coords="188,56,360,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,67,408,67,408,72,375,72"/>
+<area shape="rect" id="Node000004" href="$structEnchantTestFixture.html" title=" " alt="" coords="5,56,140,82"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,67,187,67,187,72,155,72"/>
 </map>
